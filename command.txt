@@ -1,0 +1,6 @@
+mv
+mkdir
+rm -rf 
+cat
+pwd
+
